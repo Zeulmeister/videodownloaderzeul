@@ -1,0 +1,12 @@
+{
+    "download_dir": "C:\\Users\\gabri\\Downloads\\SuperDownloader",
+    "max_concurrent_downloads": 4,
+    "max_filename_length": 80,
+    "use_sponsorblock": true,
+    "prefer_aria2c": true,
+    "audio_quality": "0",
+    "audio_format": "flac",
+    "use_download_archive": true,
+    "archive_file": "download_archive.txt",
+    "max_retries": 3
+}
